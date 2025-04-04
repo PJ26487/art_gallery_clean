@@ -22,13 +22,13 @@ A responsive e-commerce website for an art gallery, featuring product listings, 
 
 ## Live Demo
 
-Visit the live site: [Art Gallery E-Commerce](https://pj26487.github.io/fake_store_2/)
+Visit the live site: [Art Gallery E-Commerce](https://pj26487.github.io/art_gallery_clean/)
 
 ## Setup and Installation
 
 1. Clone the repository
    ```
-   git clone https://github.com/PJ26487/fake_store_2.git
+   git clone https://github.com/PJ26487/art_gallery_clean.git
    ```
 
 2. Open `index.html` in your browser to view the website locally
@@ -42,7 +42,7 @@ This site is deployed using GitHub Pages. To deploy your own version:
 3. Navigate to the "Pages" section
 4. Select the main branch as the source and the root folder
 5. Click "Save"
-6. Your site will be published at `https://[your-username].github.io/fake_store_2/`
+6. Your site will be published at `https://[your-username].github.io/art_gallery_clean/`
 
 ## Project Structure
 
